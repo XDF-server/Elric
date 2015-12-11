@@ -57,7 +57,7 @@ cd example
 python test_master.py
 ```
 
-Step 3. Start master
+Step 3. Start worker
 ```
 python test_worker.py
 ```
